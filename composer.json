@@ -17,7 +17,7 @@
         "./"
     ],
     "license": "MIT License",
-    "name": "pear/fsm",
+    "name": "hut6/fsm",
     "homepage": "http://pear.github.io/FSM/",
     "support": {
         "issues": "https://github.com/pear/FSM/issues",
